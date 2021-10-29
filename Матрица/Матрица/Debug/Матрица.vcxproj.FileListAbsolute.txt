@@ -1,0 +1,3 @@
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР14_ДружинаАВ\Матрица\Матрица\Debug\Матрица.vcxprojAssemblyReference.cache
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР14_ДружинаАВ\Матрица\Матрица\Debug\Матрица.MyForm.resources
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР14_ДружинаАВ\Матрица\Матрица\Debug\Матрица.vcxproj.GenerateResource.cache
