@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  lab18.cpp
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР18-19_ДружинаАВ\lab18\lab18\lab18.cpp(51,16): warning C4244: =: преобразование "const WCHAR" в "CHAR", возможна потеря данных
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР18-19_ДружинаАВ\lab18\lab18\lab18.cpp(84,10): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab18.vcxproj -> C:\Users\zeedi\OneDrive\Рабочий стол\ЛР18-19_ДружинаАВ\lab18\Debug\lab18.exe
