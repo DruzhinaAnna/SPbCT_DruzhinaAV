@@ -1,0 +1,12 @@
+﻿  Проверка исходных файлов
+  Удаленное копирование исходных файлов в "192.168.0.109"
+  Проверка архитектуры
+  Проверка архитектуры
+  Запуск удаленной сборки.
+  Компиляция исходных файлов:
+  Fifthb.cpp
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР23\Project5b\Project5b\Fifthb.cpp(4,7): warning : unused variable ‘z’ [-Wunused-variable]
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР23\Project5b\Project5b\Fifthb.cpp(4,7): warning :     4 |  char z = *(const char*)0;
+C:\Users\zeedi\OneDrive\Рабочий стол\ЛР23\Project5b\Project5b\Fifthb.cpp(4,7): warning :       |       ^
+  Связывание объектов
+  Project5b.vcxproj -> C:\Users\zeedi\OneDrive\Рабочий стол\ЛР23\Project5b\Project5b\bin\x64\Debug\Project5b.out

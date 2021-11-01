@@ -1,0 +1,1 @@
+g++ -o "/home/anna/projects/Project6/bin/x64/Debug/Project6.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/anna/projects/Project6/obj/x64/Debug/Sixth.o
