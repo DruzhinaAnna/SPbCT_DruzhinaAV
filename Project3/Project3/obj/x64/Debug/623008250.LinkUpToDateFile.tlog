@@ -1,0 +1,1 @@
+g++ -o "/home/anna/projects/Project3/bin/x64/Debug/Project3.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/anna/projects/Project3/obj/x64/Debug/Third.o
