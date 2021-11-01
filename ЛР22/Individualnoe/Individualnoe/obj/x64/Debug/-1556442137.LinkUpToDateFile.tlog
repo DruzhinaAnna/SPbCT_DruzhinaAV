@@ -1,1 +1,0 @@
-g++ -o "/home/anna/projects/Individualnoe/bin/x64/Debug/Individualnoe.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/anna/projects/Individualnoe/obj/x64/Debug/Individualnoe.o
