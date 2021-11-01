@@ -1,0 +1,1 @@
+g++ -o "/home/anna/projects/Zadanie/bin/x64/Debug/Zadanie.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/anna/projects/Zadanie/obj/x64/Debug/Zadanie.o
