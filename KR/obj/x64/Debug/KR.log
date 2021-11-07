@@ -1,0 +1,12 @@
+﻿  Проверка исходных файлов
+  Удаленное копирование исходных файлов в "192.168.31.174"
+  Проверка архитектуры
+  Проверка архитектуры
+  Запуск удаленной сборки.
+  Компиляция исходных файлов:
+  main.cpp
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\КР\KR\main.cpp(13,7): warning : unused variable ‘file’ [-Wunused-variable]
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\КР\KR\main.cpp(13,7): warning :    13 |  char file;
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\КР\KR\main.cpp(13,7): warning :       |       ^~~~
+  Связывание объектов
+  KR.vcxproj -> C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\КР\KR\bin\x64\Debug\KR.out
