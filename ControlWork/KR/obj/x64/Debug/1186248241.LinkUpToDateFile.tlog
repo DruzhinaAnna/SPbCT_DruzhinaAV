@@ -1,0 +1,1 @@
+g++ -o "/home/ivan/projects/KR/bin/x64/Debug/KR.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/ivan/projects/KR/obj/x64/Debug/main.o
